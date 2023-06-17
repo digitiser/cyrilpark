@@ -35,7 +35,10 @@ function TopNav() : React.JSX.Element {
                             target="_blank"
                             rel="noreferrer"
                             href={Urls.GitHub}>
-                                <img style={{height: '25px'}} className="me-auto" src="github-mark-white.svg" />
+                                <img style={{height: '25px'}}
+                                     alt="GitHub"
+                                     className="me-auto"
+                                     src="github-mark-white.svg" />
                         </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
