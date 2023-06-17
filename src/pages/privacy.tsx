@@ -3,8 +3,6 @@ import Section from '../components/section';
 
 export default function PrivacyPolicy() : React.JSX.Element {
 
-    const margin = 'mt-3';
-
     return (
         <>
             <Section title='Privacy Policy'>
