@@ -5,15 +5,17 @@ This is a community website for Queens Park, Bournemouth, UK
 
 Clone Repository to your local environment
 
-This site was written using Visual Studio Code but any IDE is fine.
+This site was written using [Visual Studio Code](https://code.visualstudio.com/).
 
-use `npm install` to install the modules.
-use `npm start` to run it locally
+- use `npm install` to install the modules.
+- use `npm start` to run it locally
 
 Create pull requests to have changes merged with `main` branch for auto deployment to [www.queensparkcommunity.org.uk](https://www.queensparkcommunity.org.uk)
 
 # Technologies uses
 - React
 - React Bootstrap
+- React Router
 - SASS
 - TypeScript
+- Azure Static Web App

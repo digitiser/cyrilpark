@@ -34,7 +34,7 @@ export default function Home(): React.JSX.Element {
                         </p>
 
                         <p>
-                            <Button href={Urls.SignUp} variant='primary' size='sm'>Sign Up</Button>
+                            <Button target='_blank' rel="noreferrer" href={Urls.SignUp} variant='primary' size='sm'>Sign Up</Button>
                         </p>
                     </Section>
                 </Col>
