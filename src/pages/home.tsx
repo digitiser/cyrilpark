@@ -21,7 +21,7 @@ export default function Home(): React.JSX.Element {
                     Topics can include Community Events, Security, Lost &amp; Found, Neighbourhood Planning or any other community focussed talk.
                 </p>
                 <p>
-                    Anyone living in the Queens Park area (see map below) can <a href={Urls.SignUp} target="_blank">Sign Up</a> to
+                    Anyone living in the Queens Park area (see map below) can <a href={Urls.SignUp} target="_blank" rel="noreferrer">Sign Up</a> to
                     join the What's App Group.  We only ask that you respect each other and adhere to our <Link to="code">code of conduct</Link>.
                 </p>
             </Section>
@@ -58,7 +58,7 @@ export default function Home(): React.JSX.Element {
 
                 <p>
                     Anyone living in the area indicated by the <span style={{ color: 'red' }}>red line</span> below
-                    can <a href={Urls.SignUp} target="_blank">sign up</a>.
+                    can <a href={Urls.SignUp} target="_blank" rel="noreferrer">sign up</a>.
                 </p>
 
                 <p style={{ textAlign: 'center' }}>

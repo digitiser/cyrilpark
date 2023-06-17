@@ -1,11 +1,7 @@
 import React from 'react';
-import { Card } from 'react-bootstrap';
-import ReactDOM from 'react-dom/client'
 import Section from '../components/section';
 
 export default function CodeOfConduct() : React.JSX.Element {
-
-    const margin = 'mt-3';
 
     return (
         <>
