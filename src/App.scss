@@ -1,0 +1,6 @@
+@use './styles/variables.scss';
+
+.page-body {
+    //Allow space at top for navbar
+    padding-top: 56px;
+}

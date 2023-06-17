@@ -1,0 +1,5 @@
+// Import custom variables and override default Bootstrap variables
+@import "./variables.scss";
+
+// Import Bootstrap (from node modules)
+@import "~bootstrap/scss/bootstrap.scss";
