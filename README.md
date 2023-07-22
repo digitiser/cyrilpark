@@ -1,5 +1,5 @@
 # Introduction 
-This is a community website for Queens Park, Bournemouth, UK
+This is a community website for Cyril Park, Bournemouth, UK
 
 # Getting Started
 
