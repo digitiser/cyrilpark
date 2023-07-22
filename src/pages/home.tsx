@@ -14,14 +14,14 @@ export default function Home(): React.JSX.Element {
 
             <Section title="About Us">
                 <p>
-                    This group has been created to enable residents of Queens Park, Bournemouth to be able to communicate freely and easily about
-                    anything related to their community.
+                    This group has been created to enable friends of Cyril Park, Bournemouth to be able to communicate freely and easily about
+                    anything related to the park.
                 </p>
                 <p>
                     Topics can include Community Events, Security, Lost &amp; Found, Neighbourhood Planning or any other community focussed talk.
                 </p>
                 <p>
-                    Anyone living in the Queens Park area (see map below) can <a href={Urls.SignUp} target="_blank" rel="noreferrer">Sign Up</a> to
+                    Anyone living near Cyril Park (see map below) can <a href={Urls.SignUp} target="_blank" rel="noreferrer">Sign Up</a> to
                     join the What's App Group.  We only ask that you respect each other and adhere to our <Link to="code">code of conduct</Link>.
                 </p>
             </Section>
@@ -30,7 +30,7 @@ export default function Home(): React.JSX.Element {
                 <Col>
                     <Section title="Sign Up">
                         <p>
-                            Sign up for the Queens Park Community What's App Group. Once you are approved, one of our admins will add you in.
+                            Sign up for the Friends of Cyril Park Community What's App Group. Once you are approved, one of our admins will add you in.
                         </p>
 
                         <p>
