@@ -10,7 +10,7 @@ export default function Home(): React.JSX.Element {
         <>
             <Section title="Welcome">
                 This site is for members of the Cyril Park, Bournemouth community What's App group.
-            </Section>
+            </Section> 
 
             <Section title="About Us">
                 <p>
