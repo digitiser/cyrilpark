@@ -9,7 +9,7 @@ export default function Home(): React.JSX.Element {
     return (
         <>
             <Section title="Welcome">
-                This site is for members of the Queens Park, Bournemouth community What's App group.
+                This site is for members of the Cyril Park, Bournemouth community What's App group.
             </Section>
 
             <Section title="About Us">
