@@ -10,7 +10,7 @@ function TopNav() : React.JSX.Element {
     return (
         <Navbar bg="primary" variant="dark" expand="lg" fixed="top">
             <Container>
-                <Navbar.Brand as={Link} to='/'>Queens Park Community</Navbar.Brand>
+                <Navbar.Brand as={Link} to='/'>Friends of Cyril Park</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
