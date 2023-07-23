@@ -18,10 +18,10 @@ export default function Home(): React.JSX.Element {
                     anything related to the park.
                 </p>
                 <p>
-                    Topics can include Community Events, Security, Lost &amp; Found, Neighbourhood Planning or any other community focussed talk.
+                    Topics can include Community Events, Security, Lost &amp; Found, Neighbourhood Policing or any other community focussed talk that is relevent to the park.
                 </p>
                 <p>
-                    Anyone living near Cyril Park (see map below) can <a href={Urls.SignUp} target="_blank" rel="noreferrer">Sign Up</a> to
+                    Anyone living near Cyril Park can <a href={Urls.SignUp} target="_blank" rel="noreferrer">Sign Up</a> to
                     join the What's App Group.  We only ask that you respect each other and adhere to our <Link to="code">code of conduct</Link>.
                 </p>
             </Section>
