@@ -57,14 +57,11 @@ export default function Home(): React.JSX.Element {
             <Section title="Who can join">
 
                 <p>
-                    Anyone living in the area indicated by the <span style={{ color: 'red' }}>red line</span> below
+                    Anyone living in the Malmesbury Park estate or who is able to demonstrate a local connection to the Park 
                     can <a href={Urls.SignUp} target="_blank" rel="noreferrer">sign up</a>.
                 </p>
 
-                <p style={{ textAlign: 'center' }}>
-                    <img src="map.png" style={{ maxWidth: '100%' }} alt="Map" />
-                </p>
-
+              
             </Section>
         </>
     );
